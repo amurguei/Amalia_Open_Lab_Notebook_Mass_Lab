@@ -1,4 +1,4 @@
-TITLE="DNA extraction and PCRs (16S) of bacteria associated to planulae and spat of _S. pistillata_"
+# DNA extraction and PCRs (16S) of bacteria associated to planulae and spat of _S. pistillata_
 
 ## Trial protocols and results from DNA extraction, PCR and electrophoresis for 16S microbiome sequencing.  
 
@@ -53,6 +53,7 @@ Sample 6. 15/04/23. 5 spats. days.
 ### DNA extraction results (nano-drop or microplate reader)
 
 I checked my DNA extraction results at the microplate reader in the Luzzatto Knaan lab with two drops per sample for my extraction products. Since the DNA extraction was successful, I continued with the 16S PCR.
+
 | Sample        | 260/280 | ng/µL   |
 |---------------|---------|---------|
 | A (blank)     |         |         |
