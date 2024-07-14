@@ -1,6 +1,4 @@
-# DNA extraction and PCRs (16S) of bacteria associated to planulae and spat of _S. pistillata_
-
-## Trial protocols and results from DNA extraction, PCR and electrophoresis for 16S microbiome sequencing.  
+# DNA extraction and PCRs (16S) of bacteria associated to planulae and spat of _S. pistillata_: Trial protocols and results from DNA extraction, PCR and electrophoresis 
 
 Using the [Zymo Quick-DNA/RNA Miniprep Plus Kit ](https://zymoresearch.eu/collections/quick-dna-rna-kits/products/quick-dna-rna-miniprep-plus-kit) on _Stylophora pistillata_ planulae and spat to extract associated bacterial DNA and further microbiome analysis. This post is based on  [fscucchia's](https://github.com/fscucchia) [protocol](https://github.com/fscucchia/FScucchia_Lab_Notebook-Mass_Lab/blob/master/_posts/2020-12-09-DNA-RNA-extraction-with-Zymo-kit.md). Unless specified, all steps took place in the [Mass lab](https://mass-lab.github.io/Open_Lab_Notebook_Mass_Lab/), University of Haifa. PCR, Gel preparation and electrophoresis were based on Mass Lab protocols kept by [Rachel Bober](https://github.com/RachelBober).
 
@@ -144,7 +142,6 @@ Make a 1% agarose gel (1g agarose in 100 ml of 0.5XTBE).
 
 ## Electrophoresis
 
-
 1. Place the gel on the leveled gel stage of the running device.
 2. Fill both sides of the running device tanks with 'used TBEX0.5 buffer'.
 3. Submerge the gel in the UV-transparent tray on the leveled gel stage, ensuring wells are fully covered with buffer. Do not fill up to the maximum level until after loading samples.
@@ -174,4 +171,4 @@ Make a 1% agarose gel (1g agarose in 100 ml of 0.5XTBE).
 
 My gel results, showing a successful extraction for 16S for all samples, and no contamination of the NTC. Please note it is to be expected for this set of primers to show two bands. 
 
-![PCR Results](https://github.com/amurguei/Amalia_Open_Lab_Notebook_Mass_Lab/blob/master/images/PCR_results_7_8_26_microbiome.png)
+![PCR Results](https://raw.githubusercontent.com/amurguei/Amalia_Open_Lab_Notebook_Mass_Lab/master/images/PCR_results_7_8_26_microbiome.png)
