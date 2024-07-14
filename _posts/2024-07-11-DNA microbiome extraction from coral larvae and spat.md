@@ -1,4 +1,4 @@
-# DNA extraction and PCRs (16S) of bacteria associated to planulae and spat of _S. pistillata_
+TITLE="DNA extraction and PCRs (16S) of bacteria associated to planulae and spat of _S. pistillata_"
 
 ## Trial protocols and results from DNA extraction, PCR and electrophoresis for 16S microbiome sequencing.  
 
@@ -52,37 +52,23 @@ Sample 6. 15/04/23. 5 spats. days.
 
 ### DNA extraction results (nano-drop or microplate reader)
 
-I checked my DNA extraction results at the microplate reader in the Luzzatto Knaan lab. Since the DNA extraction was successful, I continued with the 16S PCR.
-|                | 2        | 3        |          |
-|----------------|----------|----------|----------|
-| A (blank)      |          |          | Well ID  |
-|                |          |          | Spectrum |
-|                |          |          | 260/280  |
-|                |          |          | ng/µL    |
-| B (sample 1)   | SPL1     | SPL1     | Well ID  |
-|                |          |          | Spectrum |
-|                | 1.885    | 1.855    | 260/280  |
-|                | 30.915   | 32.435   | ng/µL    |
-| C (sample 2)   | SPL2     | SPL2     | Well ID  |
-|                |          |          | Spectrum |
-|                | 1.847    | 1.857    | 260/280  |
-|                | 21.739   | 22.057   | ng/µL    |
-| D (sample 26)  | SPL3     | SPL3     | Well ID  |
-|                |          |          | Spectrum |
-|                | 1.849    | 1.808    | 260/280  |
-|                | 50.043   | 83.029   | ng/µL    |
-| E (sample 4)   | SPL4     | SPL4     | Well ID  |
-|                |          |          | Spectrum |
-|                | 1.831    | 1.739    | 260/280  |
-|                | 11.678   | 28.775   | ng/µL    |
-| F (sample 5)   | SPL5     | SPL5     | Well ID  |
-|                |          |          | Spectrum |
-|                | 1.858    | 1.851    | 260/280  |
-|                | 76.195   | 78.868   | ng/µL    |
-| G (sample 6)   | SPL6     | SPL6     | Well ID  |
-|                |          |          | Spectrum |
-|                | 1.87     | 1.727    | 260/280  |
-|                | 19.889   | 36.437   | ng/µL    |
+I checked my DNA extraction results at the microplate reader in the Luzzatto Knaan lab with two drops per sample for my extraction products. Since the DNA extraction was successful, I continued with the 16S PCR.
+| Sample        | 260/280 | ng/µL   |
+|---------------|---------|---------|
+| A (blank)     |         |         |
+| B (sample 1)  | 1.885   | 30.915  |
+|               | 1.855   | 32.435  |
+| C (sample 2)  | 1.847   | 21.739  |
+|               | 1.857   | 22.057  |
+| D (sample 26) | 1.849   | 50.043  |
+|               | 1.808   | 83.029  |
+| E (sample 4)  | 1.831   | 11.678  |
+|               | 1.739   | 28.775  |
+| F (sample 5)  | 1.858   | 76.195  |
+|               | 1.851   | 78.868  |
+| G (sample 6)  | 1.87    | 19.889  |
+|               | 1.727   | 36.437  |
+
 
 ## PCR
 
@@ -187,4 +173,4 @@ Make a 1% agarose gel (1g agarose in 100 ml of 0.5XTBE).
 
 My gel results, showing a successful extraction for 16S for all samples, and no contamination of the NTC. Please note it is to be expected for this set of primers to show two bands. 
 
-![PCR Results](https://github.com/amurguei/Lab_protocols/blob/main/PCR_results_7_8_26_microbiome.png)
+![PCR Results](https://github.com/amurguei/Amalia_Open_Lab_Notebook_Mass_Lab/blob/master/images/PCR_results_7_8_26_microbiome.png)
