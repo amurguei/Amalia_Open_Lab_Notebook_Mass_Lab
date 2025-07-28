@@ -11,7 +11,7 @@ Modifying the ntop parameter to include all genes, the variance explained by PC1
 
 ![PCA VST no correction](https://raw.githubusercontent.com/amurguei/Amalia_Open_Lab_Notebook_Mass_Lab/refs/heads/master/images/PCA_VST_no_corr.png)
 
-The WGCNA Topological Overlap Matrix (TOM) also shows a rare split where most genes go into the "turquoise" or "blue" modules. correlated with the larval stages cluster with "turquoise" and with spat "blue": 
+The WGCNA Topological Overlap Matrix (TOM) also shows a rare split where most genes go into the "turquoise" or "blue" modules. "Turquoise" genes correlated with the larval stages, while "blue" with spat. 
 
 ![Mcap merged clusters WGCNA](https://raw.githubusercontent.com/amurguei/Amalia_Open_Lab_Notebook_Mass_Lab/refs/heads/master/images/Mcap_mergedClusters_WGCNA.png)
 
@@ -105,10 +105,12 @@ I tested whether including SVs as covariates led to changes in the network.
   - Core network structure remained **largely preserved**.
   - SVA correction slightly **redistributed module membership** (e.g., fewer genes in turquoise, more in smaller modules).
 
-
+Mean K and networks look almost identical
 ![Mean K covariate](https://raw.githubusercontent.com/amurguei/Amalia_Open_Lab_Notebook_Mass_Lab/refs/heads/master/images/Mean%20K%20covariate.png)
 ![Network with and without VST covariate](https://raw.githubusercontent.com/amurguei/Amalia_Open_Lab_Notebook_Mass_Lab/refs/heads/master/images/Network_with-without%20VST%20covariate.png)
+With small changes, assignments of genes to modules are mostly consistent.
 ![Number of Genes per Module](https://raw.githubusercontent.com/amurguei/Amalia_Open_Lab_Notebook_Mass_Lab/refs/heads/master/images/Number_of_genes_per_module.png)
+Likewise, correlations with life stage. 
 ![Raw Module-Trait Heatmap](https://raw.githubusercontent.com/amurguei/Amalia_Open_Lab_Notebook_Mass_Lab/refs/heads/master/images/Raw_ModuleTrait_Heatmap-1.png)
 ![SVA Module-Trait Heatmap](https://raw.githubusercontent.com/amurguei/Amalia_Open_Lab_Notebook_Mass_Lab/refs/heads/master/images/SVA_ModuleTrait_Heatmap-1.png)
 
