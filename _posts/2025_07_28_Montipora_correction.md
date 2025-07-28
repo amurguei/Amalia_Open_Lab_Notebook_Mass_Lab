@@ -82,13 +82,13 @@ To reduce the technical separation, I tested three groups of corrections and vis
 | ComBat   | 25               | 41.6      |
 
 - **Residualized matrices**: These reduced PC1 explained variance, but distorted structure:
-TIN:
+
 ![PCA TIN Residualized](https://raw.githubusercontent.com/amurguei/Amalia_Open_Lab_Notebook_Mass_Lab/refs/heads/master/images/PCA_Tin_Residualized.png)
 
-Alignment:
+
 ![PCA Alignment Rate Residualized](https://raw.githubusercontent.com/amurguei/Amalia_Open_Lab_Notebook_Mass_Lab/refs/heads/master/images/PCA_Alignment_rate_res.png)
 
-SVA
+
 ![PCA SVA Residualized](https://raw.githubusercontent.com/amurguei/Amalia_Open_Lab_Notebook_Mass_Lab/refs/heads/master/images/PCA_SVA_res.png)
 
 - **ComBat-seq**: Also introduced irregularities in global structure.
