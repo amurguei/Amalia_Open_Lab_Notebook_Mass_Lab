@@ -1,5 +1,6 @@
 # *Montipora* correction
 Attempts to correct artifacts in *Montipora capitata* developmental timeseries (3 life stages)
+NCBI BioProject: PRNJ738963; [ENA Project PRJNA738963](https://www.ebi.ac.uk/ena/browser/view/PRJNA738963)
 
 The *Montipora capitata* developmental time series appears to contain a technical artifact inflating separation between the spat samples and other life stages. This artifact may influence cross-species comparative analyses.
 
@@ -82,9 +83,9 @@ To reduce the technical separation, I tested three groups of corrections and vis
 
 - **Residualized matrices**: These reduced PC1 explained variance, but distorted structure:
 TIN:
-![PCA TIN Residualized](https://raw.githubusercontent.com/amurguei/Amalia_Open_Lab_Notebook_Mass_Lab/refs_)
+![PCA TIN Residualized](https://raw.githubusercontent.com/amurguei/Amalia_Open_Lab_Notebook_Mass_Lab/refs/heads/master/images/PCA_Tin_Residualized.png)
 
-Alignment
+Alignment:
 ![PCA Alignment Rate Residualized](https://raw.githubusercontent.com/amurguei/Amalia_Open_Lab_Notebook_Mass_Lab/refs/heads/master/images/PCA_Alignment_rate_res.png)
 
 SVA
