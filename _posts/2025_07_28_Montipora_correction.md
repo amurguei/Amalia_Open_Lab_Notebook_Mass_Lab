@@ -1,5 +1,5 @@
-# Montipora_correction
-Attempts to correct artifacts in Montipora capitata developmental timeseries (3 life stages)
+# *Montipora* correction
+Attempts to correct artifacts in *Montipora capitata* developmental timeseries (3 life stages)
 
 The *Montipora capitata* developmental time series appears to contain a technical artifact inflating separation between the spat samples and other life stages. This artifact may influence cross-species comparative analyses.
 
@@ -113,4 +113,4 @@ I tested whether including SVs as covariates led to changes in the network.
 ![SVA Module-Trait Heatmap](https://raw.githubusercontent.com/amurguei/Amalia_Open_Lab_Notebook_Mass_Lab/refs/heads/master/images/SVA_ModuleTrait_Heatmap-1.png)
 
 
-In this repository I placed relevant files for the mapping process (MultiQC reports, bioinformatics code), the WGCNA Montipora code and gene count matrix, and the attempts at corrections code with files. 
+In [this repository](https://github.com/amurguei/Montipora_corr) I placed relevant files for the mapping process (MultiQC reports, bioinformatics code), the WGCNA *Montipora* code and gene count matrix, and the attempts at corrections code with files. 
